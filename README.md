@@ -4,7 +4,7 @@
 
 ## About Me
 
-I'm a passionate developer with 5+ years of experience specializing in:
+I'm a passionate developer with 7+ years of experience specializing in:
 
 - **MERN Stack (MongoDB, Express.js, React, Node.js)**
 - **React Native**
